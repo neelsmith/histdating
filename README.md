@@ -17,3 +17,11 @@ This library provides representations of datings that can be manipulated in a va
 -   A point may have a range qualifier: `taq` or `tpq`
 -   A range is a pair of points.
 -   Datings are ither points or a range.
+
+
+## Libraries
+
+
+Java 8 time library is the future, but needs to be supplemented with Julian Calendar from this source:
+
+<http://www.threeten.org/threeten-extra/apidocs/org/threeten/extra/chrono/JulianChronology.html>
